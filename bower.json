@@ -42,7 +42,7 @@
     "ng-slide-down": "1.2.x",
     "uri.js": "~1.15.0",
     "validator-js": "~3.37.0",
-    "ovh-ui-kit": "^1.0.0-alpha.11",
+    "ovh-ui-kit": "#master",
     "ovh-angular-a-disabled": "^0.1.1",
     "ng-at-internet": "^2.2.1",
     "at-internet-ui-router-plugin": "^0.1.2",
@@ -73,7 +73,7 @@
     "ovh-angular-doc-url": "^0.0.6",
     "ovh-angular-module-status": "^0.0.1",
     "ovh-angular-otrs": "^1.1.0",
-    "ovh-api-services": "^1.1.5",
+    "ovh-api-services": "#feature/UXMCLOUD-1314",
     "angular-chart.js": "^1.1.1"
   },
   "devDependencies": {
@@ -96,7 +96,8 @@
     "angular-translate-storage-cookie": "2.12.x",
     "moment": ">=2.8.0 <3.0.0",
     "ovh-common-style": "^3.2.2",
-    "lodash": "~3.10.1"
+    "lodash": "~3.10.1",
+    "ovh-api-services": "feature/UXMCLOUD-1314"
   },
   "overrides": {
     "angular-strap": {
